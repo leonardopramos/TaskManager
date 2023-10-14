@@ -2,6 +2,7 @@
 API developed by a RocketSeat Java class. <br>
 Deployed at: https://dashboard.render.com/web/srv-ckle3f8u1l6c73c48l3g <br>
 To utilize it, use the follow endpoints: <br>
+*Note: Utilize the basic auth to use it following your user credentials in the registration* <br>
 
 Create User: https://taskmanager-j63s.onrender.com/api/v1/users/create <br>
 Json example: <br>
