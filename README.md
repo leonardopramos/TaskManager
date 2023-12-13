@@ -27,7 +27,7 @@ A API está disponível para testes no seguinte link: [TaskManager API](https://
     }
     ```
 
-- **Criar Tarefa:** `https://taskmanager-j63s.onrender.com/api/v1/task/create`
+- **Criar Tarefa:** `https://taskmanager-j63s.onrender.com/api/v1/task/all`
   - Exemplo JSON:
     ```json
     {
